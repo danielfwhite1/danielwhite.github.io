@@ -1,2 +1,1 @@
-# danielwhite.github.io
-Personal Site
+# Personal-Site
